@@ -12,7 +12,7 @@ new Vue({
         },
         tools: [
             {
-                name: 'How to picth Penbox',
+                name: 'How to pitch Penbox',
                 description: 'xxx **xxxx**',
                 links: {
                     en: 'https://penbox.notion.site/Pitching-Penbox-for-Penbee-a8ac01d3d1f74eff9e9e2d89166a60f1?pvs=74',
