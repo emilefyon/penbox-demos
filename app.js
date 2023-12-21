@@ -37,7 +37,7 @@ new Vue({
                 links: {
                     en: null,
                     fr: 'https://builder.penbox.io/ai?prompt=Je%20suis%20un%20professeur.%20Demander%20l%27autorisation%20aux%20parents%20pour%20que%20les%20enfants%20puissent%20venir%20en%20voyage%20scolaire%20le%203%20f%C3%A9vrier%20%28oui%2Fnon%29.%20Demander%20s%27il%20l%27enfant%20a%20des%20contraintes%20alimentaires%20%28oui%2Fnon%29%20et%20demander%20tout%20commentaire%20utile%20%28texte%20libre%29.',
-                    nl: null
+                    nl: 'https://builder.penbox.io/ai?prompt=Ik%20ben%20leerkracht.%20Vraag%20de%20ouders%20om%20toestemming%20voor%20de%20kinderen%20om%20op%203%20februari%20op%20schoolreis%20te%20gaan%3A%20Mag%20uw%20kind%20mee%20op%20schoolreis%3F%28ja%2Fnee%29.%20Heeft%20uw%20kind%20dieetbeperkingen%20%28ja%2Fnee%29%20heeft%20u%20eventueel%20nuttige%20opmerkingen%3F%20%28vrije%20tekst%29.'
                 },
                 showDescription: false
             },
