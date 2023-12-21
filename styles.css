@@ -1,0 +1,11 @@
+/* Add your custom styles here */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.material-icons-outlined {
+    font-family: 'Material Symbols Outlined', sans-serif;
+    font-size: 1rem; /* Adjust as needed */
+    vertical-align: middle;
+    font-style: normal; /* Add this line */
+}
