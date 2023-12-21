@@ -9,3 +9,14 @@ body {
     vertical-align: middle;
     font-style: normal; /* Add this line */
 }
+
+a.p-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+span[role="img"] {
+    font-size: 1.5rem; /* Adjust the size as needed */
+}
